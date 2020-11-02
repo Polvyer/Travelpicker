@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="permission">open another app</string>
+<string name="app_name">A3</string>
+<string-array name="VacationSpots">
+    <item>Paris</item>
+    <item>London</item>
+    <item>Tokyo</item>
+    <item>Rome</item>
+    <item>New York City</item>
+</string-array>
+</resources>
